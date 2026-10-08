@@ -4,7 +4,7 @@ A collection of Arduino-based embedded programming exercises focused on hardware
 
 ## Overview
 
-This repository contains practical exercises exploring fundamental concepts of embedded systems programming using Arduino.
+This repository contains practical exercises exploring fundamental concepts of embedded systems programming using Arduino as part of the Software Project I course.
 
 The exercises cover basic digital I/O operations, sensor interfacing, data filtering, and numerical computations.
 
